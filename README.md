@@ -1,2 +1,2 @@
 # TermFrequency--InverseDocumentFrecuenty
-In this probelm, I used two different datasets, one for training and one for testing
+In this probelm, I used two different datasets, one for training and one for testing. I used the TermFrequency -InverseDocumentFrecuenty to convert one of the columns in both datasets to turn them into features, after they were converted into features, a Logistic Regression Model to make predictions for the target and added them to the test set. After I created predictions, i added the predictions to the test set and saved them in a csv file.
